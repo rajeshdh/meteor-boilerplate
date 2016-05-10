@@ -1,7 +1,8 @@
+import React from 'react';
 const {describe, it} = global;
 import {expect} from 'chai';
 import {shallow} from 'enzyme';
-import PostList from '../postlist';
+import PostList from '../postlist.jsx';
 
 describe('core.components.postlist', () => {
   const posts = [

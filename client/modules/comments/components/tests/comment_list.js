@@ -1,7 +1,8 @@
+import React from 'react';
 const {describe, it} = global;
 import {expect} from 'chai';
 import {shallow} from 'enzyme';
-import CommentList from '../comment_list';
+import CommentList from '../comment_list.jsx';
 
 describe('comments.components.comment_list', () => {
   const comments = [

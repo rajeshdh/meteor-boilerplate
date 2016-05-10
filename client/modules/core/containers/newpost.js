@@ -1,4 +1,4 @@
-import NewPost from '../components/newpost';
+import NewPost from '../components/newpost.jsx';
 import {useDeps, composeWithTracker, composeAll} from 'mantra-core';
 
 export const composer = ({context, clearErrors}, onData) => {
