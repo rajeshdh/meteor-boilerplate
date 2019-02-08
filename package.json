@@ -19,7 +19,7 @@
     "babel-preset-stage-2": "6.x.x",
     "babel-root-slash-import": "1.x.x",
     "chai": "3.x.x",
-    "enzyme": "^2.2.0",
+    "enzyme": "^3.8.0",
     "eslint": "1.10.x",
     "eslint-plugin-react": "3.15.x",
     "jsdom": "^8.0.4",
