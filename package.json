@@ -26,7 +26,7 @@
     "mocha": "2.x.x",
     "raw-loader": "^0.5.1",
     "react-addons-test-utils": "^15.0.0",
-    "sinon": "1.17.x",
+    "sinon": "8.1.x",
     "style-loader": "^0.13.1"
   },
   "dependencies": {
