@@ -27,7 +27,7 @@
     "raw-loader": "^0.5.1",
     "react-addons-test-utils": "^15.0.0",
     "sinon": "1.17.x",
-    "style-loader": "^0.13.1"
+    "style-loader": "^2.0.0"
   },
   "dependencies": {
     "domready": "^1.0.8",
